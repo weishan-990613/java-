@@ -19,5 +19,7 @@ java实验四
 方法三：计算税前年薪应使用月薪乘12减每学期学费乘2；
 
 ## 实验结果
-输出
-![image]()
+税前及税后工资
+![image](https://github.com/weishan-990613/java-/blob/main/2.PNG)
+
+查询薪水
