@@ -21,12 +21,15 @@ java实验四
 ## 实验结果
 
 税前及税后工资
+
 ![image](https://github.com/weishan-990613/java-/blob/main/2.PNG)
 
 查询薪水
+
 ![image](https://github.com/weishan-990613/java-/blob/main/4.PNG)
 
 查询学费
+
 ![image](https://github.com/weishan-990613/java-/blob/main/3.PNG)
 
 ## 实验心得
